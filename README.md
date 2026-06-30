@@ -9,4 +9,4 @@ to execute this ,
 to create a new exe file , 
 
 1. you can edit the "keylogger.py"  and add you bot details like chat id and bot token
-2. and you can convert it into a new exe file
+2. and you can convert it into a new exe file.
